@@ -3,23 +3,32 @@
 
 ---
 
-## 👨‍💻 About Me
+## <i class="bi bi-person"></i> About Me
 
-I am a college student and AI developer focused on building real-world, practical applications rather than just theoretical models.
+I am a college student and AI developer focused on building real-world, practical applications rather than theoretical models.
 
-I build intelligent systems that solve everyday problems — from AI assistants and automation tools to full-stack AI web apps.
+I design intelligent systems that solve everyday problems — from AI assistants and automation tools to full-stack AI web applications.
 
-🚀 **What I’m building:**
-- Virtual AI Assistant (automation + chatbot + tools)  
-- AI Travel Planner (smart recommendations + chat)  
-- Digital AI Wardrobe (AI-based outfit & styling system)  
+---
 
-🌱 **Currently learning:**
-- Advanced Machine Learning & deployment  
+### <i class="bi bi-gear"></i> Currently Building
+
+- Virtual AI Assistant — automation, chatbot, and task execution  
+- AI Travel Planner — intelligent recommendations with chat integration  
+- Digital AI Wardrobe — AI-based outfit and styling system  
+
+---
+
+### <i class="bi bi-book"></i> Currently Learning
+
+- Advanced Machine Learning and deployment  
 - Scalable AI system design  
 
-💡 **Focus:**  
-Building AI products that are actually usable — not just projects.
+---
+
+### <i class="bi bi-bullseye"></i> Focus
+
+Building AI products that are practical, usable, and impact-driven.
 
 ---
 
