@@ -23,16 +23,6 @@ Building AI products that are actually usable — not just projects.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="mailto:saqib.nmomin@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Saqib Momin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/saqib_s8"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -102,6 +92,15 @@ Building AI products that are actually usable — not just projects.
 - Focus: personalization + computer vision  
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:saqib.nmomin@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Saqib Momin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/saqib_s8"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAQIB-dev7447&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
