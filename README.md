@@ -11,7 +11,7 @@ I design intelligent systems that solve everyday problems — from AI assistants
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gear.svg" width="16"/> Currently Building
+### <img src="https://img.icons8.com/ios-filled/50/ffffff/settings.png" width="18"/> Currently Building
 
 - Virtual AI Assistant — automation, chatbot, and task execution  
 - AI Travel Planner — intelligent recommendations with chat integration  
@@ -19,17 +19,16 @@ I design intelligent systems that solve everyday problems — from AI assistants
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bookstack.svg" width="16"/> Currently Learning
+### <img src="https://img.icons8.com/ios-filled/50/ffffff/learning.png" width="18"/> Currently Learning
 
 - Advanced Machine Learning and deployment  
 - Scalable AI system design  
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/target.svg" width="16"/> Focus
+### <img src="https://img.icons8.com/ios-filled/50/ffffff/goal.png" width="18"/> Focus
 
 Building AI products that are practical, usable, and impact-driven.
-
 --- 
 
 ## 💻 Tech Stack
