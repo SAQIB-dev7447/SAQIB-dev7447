@@ -3,7 +3,7 @@
 
 ---
 
-## <i class="bi bi-person"></i> About Me
+## About Me
 
 I am a college student and AI developer focused on building real-world, practical applications rather than theoretical models.
 
@@ -11,7 +11,7 @@ I design intelligent systems that solve everyday problems — from AI assistants
 
 ---
 
-### <i class="bi bi-gear"></i> Currently Building
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gear.svg" width="16"/> Currently Building
 
 - Virtual AI Assistant — automation, chatbot, and task execution  
 - AI Travel Planner — intelligent recommendations with chat integration  
@@ -19,18 +19,18 @@ I design intelligent systems that solve everyday problems — from AI assistants
 
 ---
 
-### <i class="bi bi-book"></i> Currently Learning
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bookstack.svg" width="16"/> Currently Learning
 
 - Advanced Machine Learning and deployment  
 - Scalable AI system design  
 
 ---
 
-### <i class="bi bi-bullseye"></i> Focus
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/target.svg" width="16"/> Focus
 
 Building AI products that are practical, usable, and impact-driven.
 
----
+--- 
 
 ## 💻 Tech Stack
 
