@@ -10,22 +10,26 @@ I am a college student and AI developer focused on building practical, real-worl
 I create intelligent systems that solve everyday problems — from AI assistants and automation tools to full-stack AI-powered web applications.
 
 
+
 ### <img src="https://img.icons8.com/ios-filled/50/0e75b6/settings.png" width="18"/> Currently Building
 
 - Virtual AI Assistant — automation, chatbot, and task execution  
 - AI Travel Planner — intelligent recommendations with chat integration  
-- Digital AI Wardrobe — AI-based outfit and styling system  
+- Digital AI Wardrobe — AI-based outfit and styling system
+  
 
 
 ### <img src="https://img.icons8.com/ios-filled/50/0e75b6/learning.png" width="18"/> Currently Learning
 
 - Advanced Machine Learning and real-world deployment  
-- Scalable AI system design and SaaS architecture  
+- Scalable AI system design and SaaS architecture
+  
 
 
 ### <img src="https://img.icons8.com/ios-filled/50/0e75b6/goal.png" width="18"/> Focus
 
 Building AI products that are practical, scalable, and impact-driven.
+
 
 ---
 
