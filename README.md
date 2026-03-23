@@ -46,7 +46,7 @@ Building AI products that are actually usable — not just projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12&show_icons=true&hide=commits" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12&show_icons=true&hide=commits&count_private=true" width="80%"/>
 </p>
 
 <p align="center">
