@@ -47,34 +47,73 @@ Building AI products that are actually usable — not just projects.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=SAQIB-dev7447&theme=transparent&hide_border=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAQIB-dev7447&theme=transparent&hide_border=true&layout=compact" height="150"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAQIB-dev7447&theme=transparent&hide_border=false&layout=compact&border_radius=12" width="50%" />
 
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧠 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SAQIB-dev7447&theme=transparent&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAQIB-dev7447&theme=transparent&hide_border=false&layout=donut&border_radius=12" width="60%" />
 
 </p>
 
 ---
 
-## 🔝 Top Contributions
+## 🚀 Featured Projects
 
-<p align="center">
+### 🤖 Virtual AI Assistant
+- Intelligent assistant capable of answering queries and performing tasks  
+- Features: chatbot, weather updates, app/website control, “how-to” mode  
+- Focus: automation + real-world usability  
 
-<img src="https://github-contributor-stats.vercel.app/api?username=SAQIB-dev7447&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+---
 
-</p>
+### 📋 Listify (SaaS)
+- Productivity-based SaaS application for managing and organizing tasks efficiently  
+- Designed for clean UI and real-world usability  
+- Focus: user experience + scalable product thinking  
 
+---
+
+### 🧠 RAG-based SaaS Product
+- Built an AI system using Retrieval-Augmented Generation (RAG)  
+- Enables users to query custom data and get intelligent responses  
+- Focus: AI-powered search + knowledge systems  
+
+---
+
+### 🏫 Smart College Issue System
+- Platform to report and manage college-related issues digitally  
+- Improves communication between students and administration  
+- Focus: problem-solving + real-world impact  
+
+---
+
+### 🌍 AI Travel Planner
+- Web app that generates personalized travel plans  
+- Integrated chatbot for place-specific guidance  
+- Focus: AI recommendations + user interaction  
+
+---
+
+### 👕 Digital AI Wardrobe *(In Progress)*
+- AI suggests outfits from uploaded clothing images  
+- Future: face-based styling, accessories & 3D avatar  
+- Focus: personalization + computer vision  
+
+---
 ---
 
 <p align="center">
