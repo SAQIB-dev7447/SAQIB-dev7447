@@ -34,31 +34,6 @@ Building AI products that are practical, scalable, and impact-driven.
 
 ---
 
-
-### <img src="https://img.icons8.com/ios-filled/50/0e75b6/settings.png" width="18"/> Currently Building
-
-- Virtual AI Assistant — automation, chatbot, and task execution  
-- AI Travel Planner — intelligent recommendations with chat integration  
-- Digital AI Wardrobe — AI-based outfit and styling system
-  
----
-
-
-### <img src="https://img.icons8.com/ios-filled/50/0e75b6/learning.png" width="18"/> Currently Learning
-
-- Advanced Machine Learning and real-world deployment  
-- Scalable AI system design and SaaS architecture
-  
----
-
-
-### <img src="https://img.icons8.com/ios-filled/50/0e75b6/goal.png" width="18"/> Focus
-
-Building AI products that are practical, scalable, and impact-driven.
-
-
----
-
 ## <img src="https://img.icons8.com/ios-filled/50/0e75b6/code.png" width="18"/> Tech Stack
 
 <p align="center">
