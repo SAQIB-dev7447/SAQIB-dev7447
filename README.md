@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Saqib Momin</h1>
-<h3 align="center">AI Developer | Building Smart Assistants & SaaS Tools</h3>
+<h1 align="center">Hi, I'm Saqib Momin</h1>
+<h3 align="center">AI Developer | Building Smart Assistants & Scalable SaaS Products</h3>
 
 ---
 
 ## About Me
 
-I am a college student and AI developer focused on building real-world, practical applications rather than theoretical models.
+I am a college student and AI developer focused on building practical, real-world AI applications rather than just theoretical models.
 
-I design intelligent systems that solve everyday problems — from AI assistants and automation tools to full-stack AI web applications.
+I create intelligent systems that solve everyday problems — from AI assistants and automation tools to full-stack AI-powered web applications.
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/50/ffffff/settings.png" width="18"/> Currently Building
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/settings.png" width="18"/> Currently Building
 
 - Virtual AI Assistant — automation, chatbot, and task execution  
 - AI Travel Planner — intelligent recommendations with chat integration  
@@ -19,29 +19,28 @@ I design intelligent systems that solve everyday problems — from AI assistants
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/50/ffffff/learning.png" width="18"/> Currently Learning
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/learning.png" width="18"/> Currently Learning
 
-- Advanced Machine Learning and deployment  
-- Scalable AI system design  
+- Advanced Machine Learning and real-world deployment  
+- Scalable AI system design and SaaS architecture  
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/50/ffffff/goal.png" width="18"/> Focus
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/goal.png" width="18"/> Focus
 
-Building AI products that are practical, usable, and impact-driven.
---- 
+Building AI products that are practical, scalable, and impact-driven.
 
-## 💻 Tech Stack
+---
+
+## <img src="https://img.icons8.com/ios-filled/50/0e75b6/code.png" width="18"/> Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs,html,css,fastapi,flask,django,mongodb,mysql,firebase,supabase,git,github,vercel" />
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/ios-filled/50/0e75b6/combo-chart.png" width="18"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12&show_icons=true&hide=commits&count_private=true" width="80%"/>
@@ -57,51 +56,51 @@ Building AI products that are practical, usable, and impact-driven.
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/ios-filled/50/0e75b6/rocket.png" width="18"/> Featured Projects
 
-### 🤖 Virtual AI Assistant
-- Intelligent assistant capable of answering queries and performing tasks  
-- Features: chatbot, weather updates, app/website control, “how-to” mode  
-- Focus: automation + real-world usability  
-
----
-
-### 📋 Listify (SaaS)
-- Productivity-based SaaS application for managing and organizing tasks efficiently  
-- Designed for clean UI and real-world usability  
-- Focus: user experience + scalable product thinking  
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/artificial-intelligence.png" width="16"/> Virtual AI Assistant
+Intelligent assistant capable of answering queries and performing tasks  
+- Chatbot, weather updates, app/website control, and “how-to” mode  
+- Focus: automation and real-world usability  
 
 ---
 
-### 🧠 RAG-based SaaS Product
-- Built an AI system using Retrieval-Augmented Generation (RAG)  
-- Enables users to query custom data and get intelligent responses  
-- Focus: AI-powered search + knowledge systems  
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/task.png" width="16"/> Listify (SaaS)
+Productivity-focused SaaS application for managing and organizing tasks  
+- Clean and minimal interface designed for real-world usage  
+- Focus: user experience and scalable product design  
 
 ---
 
-### 🏫 Smart College Issue System
-- Platform to report and manage college-related issues digitally  
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/database.png" width="16"/> RAG-based SaaS Product
+AI system built using Retrieval-Augmented Generation (RAG)  
+- Enables querying custom datasets with intelligent responses  
+- Focus: AI-powered search and knowledge systems  
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/university.png" width="16"/> Smart College Issue System
+Platform to report and manage college-related issues digitally  
 - Improves communication between students and administration  
-- Focus: problem-solving + real-world impact  
+- Focus: real-world problem solving and system efficiency  
 
 ---
 
-### 🌍 AI Travel Planner
-- Web app that generates personalized travel plans  
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/worldwide-location.png" width="16"/> AI Travel Planner
+Web application generating personalized travel plans  
 - Integrated chatbot for place-specific guidance  
-- Focus: AI recommendations + user interaction  
+- Focus: AI recommendations and user interaction  
 
 ---
 
-### 👕 Digital AI Wardrobe *(In Progress)*
-- AI suggests outfits from uploaded clothing images  
-- Future: face-based styling, accessories & 3D avatar  
-- Focus: personalization + computer vision  
+### <img src="https://img.icons8.com/ios-filled/50/0e75b6/t-shirt.png" width="16"/> Digital AI Wardrobe *(In Progress)*
+AI-based outfit recommendation system from uploaded clothing images  
+- Future scope: face-based styling, accessories, and 3D avatar  
+- Focus: personalization and computer vision  
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://img.icons8.com/ios-filled/50/0e75b6/share.png" width="18"/> Connect With Me
 
 <p align="center">
 <a href="mailto:saqib.nmomin@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -110,6 +109,7 @@ Building AI products that are practical, usable, and impact-driven.
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAQIB-dev7447&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
