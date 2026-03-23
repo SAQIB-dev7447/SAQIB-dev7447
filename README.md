@@ -43,19 +43,15 @@ Building AI products that are actually usable — not just projects.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAQIB-dev7447&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAQIB-dev7447&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)>
-
----
-
-## 🧠 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12" height="150"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAQIB-dev7447&theme=transparent&hide_border=false&layout=donut&border_radius=12" width="60%" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAQIB-dev7447&theme=transparent&hide_border=false&layout=donut&border_radius=12" height="150"/>
 </p>
 
 ---
