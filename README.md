@@ -104,11 +104,16 @@ AI-based outfit recommendation system from uploaded clothing images
 
 ## <img src="https://img.icons8.com/ios-filled/50/0e75b6/share.png" width="18"/> Connect With Me
 
-<p align="center">
-<a href="mailto:saqib.nmomin@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Saqib Momin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/saqib_s8"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/saqib_dev3280)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/saqib_s8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/saqib-momin)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saqib.nmomin@gmail.com)
+
+</div>
 
 ---
 
