@@ -49,7 +49,7 @@ Building AI products that are practical, scalable, and impact-driven.
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SAQIB-dev7447&theme=transparent&hide_border=false&border_radius=12" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAQIB-dev7447&theme=default&border_radius=12" width="80%" />
 </p>
 
 <p align="center">
