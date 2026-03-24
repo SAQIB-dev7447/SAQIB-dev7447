@@ -112,6 +112,4 @@ AI-based outfit recommendation system from uploaded clothing images
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAQIB-dev7447&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+
