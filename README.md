@@ -49,7 +49,7 @@ Building AI products that are practical, scalable, and impact-driven.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SAQIB-dev7447&theme=transparent&hide_border=true&border_radius=12" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=SAQIB-dev7447&theme=transparent&border_radius=12" width="80%" />
 </p>
 
 <p align="center">
